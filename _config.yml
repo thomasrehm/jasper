@@ -18,7 +18,7 @@ url: 'http://thomasrehm.github.io'
 image: 'assets/images/casper.png'
 
 short_url: 'thomasrehm.github.io'
-google_analytics: UA-69281367-1
+#google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
@@ -55,7 +55,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: thomasrehm
-repo: jasper
+repo: thomasrehm
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
